@@ -1,0 +1,20 @@
+
+.destaque{
+    color : orange;
+    font-weight: bold;
+}
+
+#titulo-principal{
+    color: rgb(255, 170, 251);
+}
+
+p {
+    color: gray;
+}
+
+#btnTeal{
+    background-color: teal;
+}
+#btnBlue{
+    background-color: blue;
+}
