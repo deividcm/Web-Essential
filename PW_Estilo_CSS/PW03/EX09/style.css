@@ -1,0 +1,27 @@
+#titulo-estoque{
+    color: #222222;
+    font: Arial;
+}
+input{
+    padding: 10px;
+    border: solid 1px;
+    border-color: #999999;
+    border-radius: 3px;
+    font-size: 16px;
+}
+#nome-peca{
+    width: 300px;
+}
+#quantidade-estoque{
+    width: 200px;
+}
+
+#botao-salvar-produto{
+    background-color: #ff9800;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: bold;
+}

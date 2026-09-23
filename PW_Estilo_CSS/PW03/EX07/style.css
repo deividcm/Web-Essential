@@ -1,0 +1,25 @@
+#titulo-cadastro{
+    font : arial;
+    text-align: center;
+    color:#333333;
+}
+
+input{
+    padding: 12px;
+    width: 300px;
+    border: solid 1px;
+    border-color: gray;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#botao-cadastrar{
+    color : white;
+    background-color: #28a745;
+    padding: 15px;
+    width: 326px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
