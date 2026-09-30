@@ -1,16 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+    background-color: #ecfeff;
+}
+
 .cabecalho{
-    margin: 0 auto;
     background-color: #28a745;
     color: white;
     text-align: center;
-    padding: 14px;
-    font: Arial;
-    font-size: 16px;
+    padding: 30px 20px;
+    
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+.cabecalho h1{
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
 .conteudo{
-    width: 600px;
-    margin: 20px auto;
+    width: 900px;
+    margin: 40px auto;
     background-color: white;
+    border: 1px none #dddddd;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.formulario{
+    margin: 14px;
+    background-color: #ecfeff;
+    padding: 30px;
     border: 1px solid #dddddd;
-    padding: 20px;
+    border-radius: 5px;
+}
+.formulario h2{
+    color: #4CAF50;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+.formulario input{
+    width: 100%;
+}
+
+.rodape{
+    background-color: rgb(53, 53, 53);
+    color: white;
+    text-align: center;
+    padding: 14px;
 }
