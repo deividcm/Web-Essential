@@ -1,0 +1,49 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.container-cadastro{
+    width: 400px;
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+#titulo-cadastro{
+    color:#333333;
+}
+
+input{
+    box-sizing: border-box;
+    padding: 12px;
+    width: 100%;
+    border: solid 2px;
+    border-color: gray;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+input:focus{
+    outline: none;
+    border-color: #28a745;
+}
+
+#botao-cadastrar{
+    color : white;
+    background-color: #28a745;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#botao-cadastrar:hover{
+    background-color: #267238;
+    transition: background-color 0.3s;
+}
