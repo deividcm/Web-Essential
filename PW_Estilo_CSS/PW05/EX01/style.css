@@ -1,0 +1,18 @@
+.caixa{
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 300px;
+    /*display: inline-block;*/
+}
+#caixa-vermelha{
+    background-color: red;
+}
+#caixa-azul{
+    background-color: blue;
+}
+#caixa-verde{
+    background-color: greenyellow;
+}
+#caixa-roxa{
+    background-color: blueviolet;
+}
