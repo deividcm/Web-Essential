@@ -1,0 +1,38 @@
+button{
+    display: inline-block;
+    width: 100px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 50px;
+    transition: background-color 0.3s;
+}
+.roxy{
+    background-color: magenta;
+}
+.dirk{
+    background-color: orange;
+}
+.jane{
+    background-color: cyan;
+}
+.jake{
+    background-color: green;
+}
+.calliope{
+    background-color: gray;
+}
+.roxy:hover{
+    background-color: rgb(0, 60, 150);
+}
+.dirk:hover{
+    background-color: rgb(160, 0, 93);
+}
+.jane:hover{
+    background-color: rgb(66, 165, 0);
+}
+.jake:hover{
+    background-color: rgb(251, 255, 3);
+}
+.calliope:hover{
+    background-color: rgb(255, 0, 0);
+}
