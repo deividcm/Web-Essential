@@ -1,0 +1,23 @@
+.container{
+    height: 1000px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.item{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
+.swiss{
+    background-color: #9aa4b0;
+}
+.bowie{
+    background-color: #701dff;
+}
+.tanto{
+    background-color: #81ce42;
+}
